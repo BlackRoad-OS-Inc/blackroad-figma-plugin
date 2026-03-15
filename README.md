@@ -1,35 +1,41 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/blackboxprogramming/blackroad-figma-plugin.svg?style=social&label=Star)](https://github.com/blackboxprogramming/blackroad-figma-plugin)
-[![GitHub forks](https://img.shields.io/github/forks/blackboxprogramming/blackroad-figma-plugin.svg?style=social&label=Fork)](https://github.com/blackboxprogramming/blackroad-figma-plugin/fork)
+<div align="center">
 
-# BlackRoad Figma Plugin 🎨
+<img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
 
-Convert Figma designs to React code instantly!
+# blackroad-figma-plugin
 
-## Features
+**BlackRoad Figma Plugin — Design-to-code bridge with brand color palette, Fibonacci spacing system, and one-click color application. Figma API + custom UI.**
 
-- Design → React components
-- Automatic styling
-- Export to CodeSandbox
-- Deploy to BlackRoad
+[![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
+[![Edge AI](https://img.shields.io/badge/Edge_AI-52_TOPS-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/BlackRoad-OS-Inc)
 
-## Installation
+</div>
 
-1. Open Figma
-2. Plugins → Manage Plugins
-3. Search "BlackRoad"
-4. Install
-
-## Usage
-
-1. Select frame/component
-2. Plugins → BlackRoad → Convert to React
-3. Copy code or deploy!
-
-## License
-
-MIT License
+<div align="center">
+<sub>Part of the <a href="https://blackroad.io">BlackRoad OS</a> ecosystem — sovereign edge AI infrastructure</sub>
+</div>
 
 ---
 
-Part of the **BlackRoad Empire** 🚀
+## Overview
+
+BlackRoad Figma Plugin — Design-to-code bridge with brand color palette, Fibonacci spacing system, and one-click color application. Figma API + custom UI.
+
+## License
+
+**Proprietary** — Copyright © 2024–2026 [BlackRoad OS, Inc.](https://blackroad.io) All rights reserved.
+
+Founder & CEO: **Alexa Louise Amundson** · Delaware C-Corp
+
+See [LICENSE](./LICENSE) for full terms.
+
+---
+
+<div align="center">
+
+**BlackRoad OS — Pave Tomorrow.**
+
+[blackroad.io](https://blackroad.io) · [GitHub](https://github.com/BlackRoad-OS-Inc) · [Brand](https://brand.blackroad.io)
+
+</div>
