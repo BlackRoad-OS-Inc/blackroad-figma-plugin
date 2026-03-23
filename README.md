@@ -1,5 +1,13 @@
 # blackroad-figma-plugin
 
+> BlackRoad Figma Plugin — Design-to-code bridge with brand color palette, Fibonacci spacing system, and one-click color application. Figma API + custom UI.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# blackroad-figma-plugin
+
 BlackRoad Figma Plugin — Design-to-code bridge with brand color palette, Fibonacci spacing system, and one-click color application. Figma API + custom UI.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
